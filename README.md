@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# React web app inspired by REACT YouTube tutorials. Users can add/delete tasks they need to fulfill in future. App uses JSon DB server to persist data and to make CRUD operations. (https://medium.com/codingthesmartway-com-blog/create-a-rest-api-with-json-server-36da8680136d) 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
